@@ -1,3 +1,4 @@
-# Two Steps Forward, One Leap Below
+# Two Steps Forward, One Leap Below - Sandbox
 
-## An unofficial mod for Social Democracy: An Alternate History
+## An unofficial sandbox mod for Social Democracy: An Alternate History - Two Steps Foward, One Leap Below
+
